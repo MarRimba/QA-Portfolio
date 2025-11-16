@@ -22,28 +22,33 @@ My name is Martin and I'm a manual tester based in Île-de-France (92). <br><br>
 ⏳ Over 5 years of experience working outside the office:<br>
 * 🏠🏢💻 - 1 year in a hybrid setup
 * 🏡🖥️ - over 4 years fully remote
-* 🐪🌍💻- including over 2 years as a digital nomad<br><br>
+* 🐪🌍💻- including over 2 years as a digital nomad<br>
+
+### Feel free to connect with me on  [<img src="https://img.shields.io/badge/LinkedIN-blue" />](https://www.linkedin.com/in/martin-rimbal//)<br><br>
+
 
 # SELECTED PROFESSIONAL PROJECTS<br>
 
-Led the integration of Rentals United with a new sales channel<br>
+### ➡️ Led the integration of Rentals United with a new sales channel<br>
 Despegar (Argentina)<br>
 *(february - june 2024)*
 
-Implementing a vacation rental guest damages service<br> powered by Truuvi (previously Superhog) (United Kingdom)<br>
+### ➡️ Implementing a vacation rental guest damages service<br> 
+powered by Truuvi- previously Superhog (United Kingdom)<br>
 *(july - august 2024)*<br>
 
-Led the implementation of a discount synchronization algorithm with the sales channel<br> Homes & Villas by Marriott Bonvoy (United States of America)<br>
+### ➡️ Led the implementation of a discount synchronization algorithm with the sales channel<br> 
+Homes & Villas by Marriott Bonvoy (United States of America)<br>
 *(january - march 2025)*<br>
 
-API version upgrade <br>
+### ➡️ API version upgrade
 Airbnb (United States of America)<br>
-*(june 2025)*<br>
+*(june 2025)*<br><br>
 
 # TOOLS
 
 Jira - a project management and issue-tracking tool<br>
-Kanbanize - a project management tool
+Kanbanize - a project management tool<br>
 GitHub, Bitbucket - a code hosting platforms for collaboration and version control<br>
 GIT - a version control system used to track code changes<br>
 Postman - an API platform for developers to design, build, test, and collaborate on APIs<br>
