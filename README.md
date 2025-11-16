@@ -52,7 +52,7 @@ Airbnb (United States of America)<br>
 
 # SELECTED TEST SCENARIOS
 
-▶️ [API version upgrade to the latest release](#_)<br><br>
+▶️ [API version upgrade to the latest release](https://github.com/MarRimba/QA-Portfolio/blob/main/TestScenarios/AirbnbApiUpgrade.md)<br><br>
 
 # TOOLS
 

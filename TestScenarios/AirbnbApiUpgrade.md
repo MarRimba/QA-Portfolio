@@ -12,7 +12,7 @@
 2.2.6 Currency<br>
 2.2.7 Pricing settings<br>
 2.2.8 Fees and taxes<br>
-2.2.9 Seasonal rules<br>asz
+2.2.9 Seasonal rules<br>
 3. Property Import<br>
 4. Maps Existing Hotel<br>
 5. PTBA<br>
