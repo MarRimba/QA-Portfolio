@@ -1,86 +1,97 @@
 # QA-Portfolio
 
-
 #### **Table of Contents**
 
-🟡 [About me] 🟡 [Professional projects] 🟡 [Tools] 🟡 [Tech skills] 🟡 [Soft skills]
+🟢 [About me](#about-me)  
+🟣 [Selected professional projects](#selected-professional-projects)  
+🟡 [Tools](#tools)  
+⚪ [Tech skills](#tech-skills)  
+🟠 [Soft skills](#soft-skills)
 
 ---
 <br>
 
-# ABOUT ME<br>
+# 🟢 ABOUT ME
 Hi there,
 
-My name is Martin and I'm a manual tester based in Île-de-France (92). <br><br>
-👋 30-Second Introduction 👋<br>
+My name is Martin and I'm a manual tester based in Île-de-France (92).  
+<br>
 
-🖥️ Combined technical support with process audits on the IT helpdesk<br>
-🔄 Transition to Software Testing in october 2022<br>
-🐞 Reported over 200 bugs, resolved 600+ issues<br>
-💡 Love tracking logical errors and suggest solutions that improve product quality and UX<br>
-🧠 I taught myself HTML, CSS, SQL and I’m currently learning Playwright to develop my skills in test automation<br>
-⏳ Over 5 years of experience working outside the office:<br>
-* 🏠🏢💻 - 1 year in a hybrid setup
-* 🏡🖥️ - over 4 years fully remote
-* 🐪🌍💻- including over 2 years as a digital nomad<br>
+👋 **30-Second Introduction** 👋  
+🖥️ Combined technical support with process audits on the IT helpdesk  
+🔄 Transitioned to Software Testing in October 2022  
+🐞 Reported over 200 bugs, resolved 600+ issues  
+💡 I enjoy tracking logical errors and suggesting solutions that improve product quality and UX  
+🧠 Self-taught in HTML, CSS, SQL and currently learning Playwright to expand into test automation  
+⏳ Over 5 years of experience working outside the office:  
+* 🏠🏢💻 — 1 year in a hybrid setup  
+* 🏡🖥️ — over 4 years fully remote  
+* 🐪🌍💻 — including over 2 years as a digital nomad  
 
-### Feel free to connect with me on  [<img src="https://img.shields.io/badge/LinkedIN-blue" />](https://www.linkedin.com/in/martin-rimbal//)<br><br>
+### Feel free to connect with me on  [<img src="https://img.shields.io/badge/LinkedIN-blue" />](https://www.linkedin.com/in/martin-rimbal/)
 
+<br>
 
-# SELECTED PROFESSIONAL PROJECTS<br>
+# 🟣 SELECTED PROFESSIONAL PROJECTS
 
-### ➡️ Led the integration of Rentals United with a new sales channel<br>
-Despegar (Argentina)<br>
-*(february - june 2024)*
+### ➡️ Led the integration of Rentals United with a new sales channel  
+Despegar (Argentina)  
+*(February – June 2024)*
 
-### ➡️ Implementing a vacation rental guest damages service<br> 
-powered by Truuvi- previously Superhog (United Kingdom)<br>
-*(july - august 2024)*<br>
+### ➡️ Implementing a vacation rental guest damages service  
+Powered by Truuvi (previously Superhog), United Kingdom  
+*(July – August 2024)*
 
-### ➡️ Led the implementation of a discount synchronization algorithm with the sales channel<br> 
-Homes & Villas by Marriott Bonvoy (United States of America)<br>
-*(january - march 2025)*<br>
+### ➡️ Led the implementation of a discount synchronization algorithm with the sales channel  
+Homes & Villas by Marriott Bonvoy (United States of America)  
+*(January – March 2025)*
 
-### ➡️ API version upgrade
-Airbnb (United States of America)<br>
-*(june 2025)*<br><br>
+### ➡️ API version upgrade  
+Airbnb (United States of America)  
+*(June 2025)*
 
-# TOOLS
+<br>
 
-Jira - a project management and issue-tracking tool<br>
-Kanbanize - a project management tool<br>
-GitHub, Bitbucket - a code hosting platforms for collaboration and version control<br>
-GIT - a version control system used to track code changes<br>
-Postman - an API platform for developers to design, build, test, and collaborate on APIs<br>
-Swagger - an API tool<br>
-Visual Studio Code - a source-code editor<br>
-Birds Eats Bugs - a screen recorder app<br>
-Loom - a screen capture and recording tool<br>
-Greenshot - for capturing, annotating, and sharing screenshots
-Slack - a team communication platform<br>
-Zendesk - a ticketing system
+# 🟡 TOOLS
 
-# TECH SKILLS
+* Jira — project management and issue-tracking tool  
+* X-Ray — test case management tool  
+* Kanbanize — project management tool  
+* GitHub, Bitbucket — code hosting platforms for collaboration and version control  
+* Git — version control system used to track code changes  
+* Postman — API platform for designing, building, testing, and collaborating on APIs  
+* Swagger — API documentation and testing tool  
+* Visual Studio Code — source-code editor  
+* Birds Eat Bugs — screen recorder tool  
+* Loom — screen capture and recording tool  
+* Greenshot — screenshot capture and annotation tool  
+* Slack — team communication platform  
+* Zendesk — ticketing system
 
-knowledge of:<br>
-* testing procedures and the creation of test documentation<br>
-* DevTools<br>
-* REST API testing<br>
-* HTML/CSS<br>
-* SQL<br>
-* XML<br>
-* SOAP<br>
-* JSON<br>
-* XML<br>
-* GraphQL<br>
-* Backend Testing<br><br>
+<br>
 
-# SOFT SKILLS
-🎯 precision and attention to detail<br>
-🧠 analytical thinking<br>
-🧘 pathience<br>
-🤝 empathy<br>
-👥 teamwork / collaboration<br>
-📅 work organization / prioritization<br>
-🔍 curiosity and assertiveness in QA<br>
-🧩 willingness to learn<br>
+# ⚪ TECH SKILLS
+
+Knowledge of:  
+* Testing procedures and creation of test documentation  
+* DevTools  
+* REST API testing  
+* HTML/CSS  
+* SQL  
+* XML  
+* SOAP  
+* JSON  
+* GraphQL  
+* Backend testing
+
+<br>
+
+# 🟠 SOFT SKILLS
+🎯 precision and attention to detail  
+🧠 analytical thinking  
+🧘 patience  
+🤝 empathy  
+👥 teamwork / collaboration  
+📅 work organization / prioritization  
+🔍 curiosity and assertiveness in QA  
+🧩 willingness to learn
