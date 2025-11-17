@@ -17,7 +17,9 @@
 # ABOUT ME <br>
 Hi there,
 
-My name is Martin and I'm a manual tester based in Île-de-France (92). <br><br>
+My name is Martin and I'm a manual tester based in Île-de-France (92). <br>
+I speak: 🇵🇱 (Polish) | 🇬🇧 (English) | 🇫🇷 (French)<br><br>
+
 👋 30-Second Introduction 👋<br>
 
 🖥️ combined technical support with process audits on the IT helpdesk<br>
