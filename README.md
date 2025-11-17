@@ -38,9 +38,35 @@ My name is Martin and I'm a manual tester based in Île-de-France (92). <br><br>
 Despegar (Argentina)<br>
 *(February - June 2024)*
 
+**Project goal**: preparation for implementing synchronization with a new sales channel.
+
+**Stages**:
+* analysis of the partner’s API documentation with regard to any non-standard test requirements
+* verification of the correctness of access credentials
+* testing of critical endpoints
+* testing in sandbox environment
+
+**Testing stages**:
+* synchronization of static data
+* synchronization of dynamic ARI data (availability, rates, inventory)
+* reservation synchronization (in cooperation with Despegar)
+
 ### ➡️ Implementing a vacation rental guest damages service<br> 
 powered by Truuvi- previously Superhog (United Kingdom)<br>
 *(July - August 2024)*<br>
+
+**Project goal**: implementation of a new service for users.
+
+**Stages**:
+
+* verification of access credentials for the API server
+* verification of the request and response structure of the Superhog server
+
+**Testing stages**:
+* generating requests for each reservation status: create / modify / cancel
+* critical cases: characters specific to languages other than English
+* critical cases: creation of last-minute reservations, taking into account time zone differences between the guest and the property location
+* certification of the functionality (in cooperation with Superhog)
 
 ### ➡️ Led the implementation of a discount synchronization algorithm with the sales channel<br> 
 Homes & Villas by Marriott Bonvoy (United States of America)<br>
