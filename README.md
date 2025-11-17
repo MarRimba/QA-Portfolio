@@ -6,6 +6,7 @@
 🟢 [About me](#about-me)<br>
 🟣 [Selected professional projects](#selected-professional-projects)<br>
 🔴 [Selected test scenarios](#selected-test-scenarios)<br>
+⚫ [Self-study project](#self-study-project)<br>
 🟡 [Tools](#tools)<br>
 ⚪ [Tech skills](#tech-skills)<br>
 🟠 [Soft skills](#soft-skills)<br>
@@ -26,7 +27,7 @@ My name is Martin and I'm a manual tester based in Île-de-France (92). <br><br>
 🧠 I taught myself HTML, CSS, SQL and I’m currently learning Playwright to develop my skills in test automation<br>
 ⏳ over 5 years of experience working outside the office:<br>
 * 🏠🏢💻 - 1 year in a hybrid setup
-* 🏡💻 - over 4 years fully remote
+* 🏡🐶💻 - over 4 years fully remote
 * 🐪🌍💻 - including over 2 years as a digital nomad<br>
 
 ### Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/martin-rimbal/)<br><br>
@@ -75,6 +76,18 @@ Homes & Villas by Marriott Bonvoy (United States of America)<br>
 ### ➡️ API version upgrade to the latest release
 Airbnb (United States of America)<br>
 *(June 2025)*<br><br>
+
+# SELF-STUDY PROJECT
+### Trello API testing<br>
+On my own initiative, I began testing public API methods provided by Trello.<br>
+
+
+**Project goal**: improving API testing skills and gaining better proficiency in Postman.<br>
+**Project status**: [IN PROGRESS]
+
+The project is currently in progress, and I will be sharing interesting cases here.
+
+<br><br>
 
 # SELECTED TEST SCENARIOS
 

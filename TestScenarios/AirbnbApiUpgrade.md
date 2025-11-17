@@ -1,3 +1,12 @@
+The project included full regression testing for all data synchronized with Airbnb:
+
+* static data
+* ARI data
+* promotions / discounts
+* data import from Airbnb into the Rentals United system
+* full reservation lifecycle: creation, modification, cancellation
+* reservation requests
+* mapping existing properties to listings in the Airbnb system<br><br>
 1. Push Property <br>
 1.1 LOS Pricing<br>
 1.2 Daily Pricing<br>
