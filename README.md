@@ -94,7 +94,8 @@ Airbnb (United States of America)<br>
 <br><br>
 
 # TEST CASES - EXAMPLES
-Examples
+[Examples](https://github.com/MarRimba/QA-Portfolio/tree/main/TestCases)
+
 <br><br>
 
 
