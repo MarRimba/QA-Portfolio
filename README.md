@@ -6,6 +6,7 @@
 🟢 [About me](#about-me)<br>
 🟣 [Selected professional projects](#selected-professional-projects)<br>
 🔴 [Selected test scenarios](#selected-test-scenarios)<br>
+🔵 [Test cases - examples](#test-cases---examples)<br>
 ⚫ [Self-study project](#self-study-project)<br>
 🟡 [Tools](#tools)<br>
 ⚪ [Tech skills](#tech-skills)<br>
@@ -37,7 +38,7 @@ I speak: 🇵🇱 (Polish) | 🇬🇧 (English) | 🇫🇷 (French)<br><br>
 
 # SELECTED PROFESSIONAL PROJECTS<br>
 
-### ➡️ Led the integration of Rentals United with a new sales channel<br>
+### ➡️ 1. Led the integration of Rentals United with a new sales channel<br>
 Despegar (Argentina)<br>
 *(February - June 2024)*
 
@@ -54,8 +55,8 @@ Despegar (Argentina)<br>
 * synchronization of dynamic ARI data (availability, rates, inventory)
 * reservation synchronization (in cooperation with Despegar)
 
-### ➡️ Implementing a vacation rental guest damages service<br> 
-powered by Truuvi- previously Superhog (United Kingdom)<br>
+### ➡️ 2. Implementing a vacation rental guest damages service<br> 
+powered by Truvi- previously Superhog (United Kingdom)<br>
 *(July - August 2024)*<br>
 
 **Project goal**: implementation of a new service for users.
@@ -66,20 +67,39 @@ powered by Truuvi- previously Superhog (United Kingdom)<br>
 * verification of the request and response structure of the Superhog server
 
 **Testing stages**:
-* generating requests for each reservation status: create / modify / cancel
+* generating requests for each reservation status: create / modify / cancel (CRUD tests)
 * critical cases: characters specific to languages other than English
 * critical cases: creation of last-minute reservations, taking into account time zone differences between the guest and the property location
 * certification of the functionality (in cooperation with Superhog)
 
-### ➡️ Led the implementation of a discount synchronization algorithm with the sales channel<br> 
+### ➡️ 3. Led the implementation of a discount synchronization algorithm with the sales channel<br> 
 Homes & Villas by Marriott Bonvoy (United States of America)<br>
 *(January - March 2025)*<br>
 
-### ➡️ API version upgrade to the latest release
+### ➡️ 4. API version upgrade to the latest release
 Airbnb (United States of America)<br>
 *(June 2025)*<br><br>
+**Project Goal**: Update data synchronization to the currently recommended Airbnb API version.
+
+**Stages**:
+
+* Analysis of the API documentation changelog
+* Identification of critical code areas potentially affected by changes
+
+**Testing Stages**:
+
+* Partner API tests, with particular focus on newly added or deprecated fields
+* Integration tests <sandbox Rentals United – sandbox Airbnb> using the implemented API version
+* Full regression testing after solution deployment
+<br><br>
+
+# TEST CASES - EXAMPLES
+Examples
+<br><br>
+
 
 # SELF-STUDY PROJECT
+
 ### Trello API testing<br>
 On my own initiative, I began testing public API methods provided by Trello.<br>
 
@@ -94,6 +114,7 @@ The project is currently in progress, and I will be sharing interesting cases he
 # SELECTED TEST SCENARIOS
 
 ▶️ [API version upgrade to the latest release](https://github.com/MarRimba/QA-Portfolio/blob/main/TestScenarios/AirbnbApiUpgrade.md)<br><br>
+
 
 # TOOLS
 
@@ -110,6 +131,8 @@ The project is currently in progress, and I will be sharing interesting cases he
 * 🖼️ Greenshot - for capturing, annotating, and sharing screenshots
 * 💬 Slack - team communication platform
 * 🎫 Zendesk - ticketing system
+<br><br>
+
 
 # TECH SKILLS
 
