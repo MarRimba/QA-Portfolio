@@ -1,0 +1,5 @@
+case_id,title,description,priority,completed
+UI-01,"Refactor report","","High",false
+UI-03,"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa","Too long title",Medium,false
+API-02,"New Task","","High",false
+API-06,"Valid title","","Urgent",false
