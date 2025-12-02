@@ -76,6 +76,15 @@ powered by Truvi- previously Superhog (United Kingdom)<br>
 Homes & Villas by Marriott Bonvoy (United States of America)<br>
 *(January - March 2025)*<br>
 
+The project involved comprehensive end-to-end testing for a new feature: discount synchronization with the HVMB channel.
+
+The acceptance criteria included, among others:<br>
+* verifying the correct assignment of discount values in relation to the guest’s check-in date (Early Bird, Last Minute, LOS),
+
+* testing the full process: from configuring data in the RU system, synchronizing it with HVMB, to validating the correct discount calculation in reservations received from the HVMB system,
+
+* certifying the process in cooperation with HVMB.
+
 ### ➡️ 4. API version upgrade to the latest release
 Airbnb (United States of America)<br>
 *(June 2025)*<br><br>
